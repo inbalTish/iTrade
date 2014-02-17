@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>company_name</key>
+		<string>Dow Jones U.S.</string>
+		<key>company_logo</key>
+		<string></string>
+		<key>company_stocks</key>
+		<array>
+			<dict>
+				<key>stock_sign</key>
+				<string>DWC</string>
+				<key>stock_price</key>
+				<real>14</real>
+			</dict>
+			<dict>
+				<key>stock_sign</key>
+				<string>DWCF</string>
+				<key>stock_price</key>
+				<string>17,450.09</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>company_name</key>
+		<string>Royal Bank of Scotland</string>
+		<key>company_logo</key>
+		<string></string>
+		<key>company_stocks</key>
+		<array>
+			<dict>
+				<key>stock_sign</key>
+				<string>RBS-F</string>
+				<key>stock_price</key>
+				<real>24.72</real>
+			</dict>
+			<dict>
+				<key>stock_sign</key>
+				<string>RBS-H</string>
+				<key>stock_price</key>
+				<real>24.05</real>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
